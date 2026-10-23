@@ -1,0 +1,4 @@
+interface:
+  display_name: "对话议题写作"
+  short_description: "从完整对话保留核心困境，独立创作有选择和代价的故事与平台文章"
+  default_prompt: "使用 $story-insight 完整理解我指定的对话稿，选定有依据的核心困境，说明保留与重建的对应，按要求独立创作并检查取材关联、阅读体验、模板腔与事实边界。"
