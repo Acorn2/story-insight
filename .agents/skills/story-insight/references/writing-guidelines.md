@@ -40,33 +40,20 @@
 
 不是每个生活建议都需要论文。将“可以试试”的作者建议与“研究证明有效”的事实主张分开；没有直接证据就不用后者措辞。
 
-## 先让读者关心发生了什么
+## 按体裁推进正文
 
-开头同时承担两件事：让人知道问题是什么，让人有理由继续追问。具体动作、意外代价、有依据的分歧都可作入口；不必完整介绍人物生平，也不必先下一个谁都同意的结论。
+独立虚构故事的开头、持续追问、场景详略和结尾集中按 [story-craft.md](story-craft.md) 处理。先完成相应设计再起稿，不把后面的事实文章建议变成小说的说理模板。
 
-有两种常见的失败：刚提出问题就答完，随后只是重复；或者故意不给基本信息，靠“后来发生了一件事”吊人胃口。都应回到材料，找出真正需要解释的变化。用户不满意开场时，先尝试不同叙事入口，不把同一句话改几个形容词当作新方案；无需每次强制生成固定数量的开头。
+事实文章或以明确假设辅助解释的文章，围绕一个需要回答的问题推进：
 
-独立取材中的细节在来源和用途允许时保留；这不授权搬入源对话的私人经历。正文不以“某主播连麦”“看过一段直播”“有人向某老师求助”引出原案，也不能只删主播名字、概括年龄城市后继续讲同一串事件。短假设用“假设”“不妨设想”等自然标记交代一次；完整故事标为虚构后连续叙述，另设人物目标、情境与推进，不使用原案稀有组合，不伪装成真人或作者亲历。
+- 从具体处境、有依据的分歧或反常后果进入，给足理解问题的基本信息。开场既不要答完后只剩重复，也不要故意漏掉因果吊胃口；快速解答可直接给结论。
+- 相邻段落带来新的解释、证据、条件或反例，而不是继续列正确道理。读者对当前矛盾产生疑问时引入资料，说明它支持什么，再回到问题。不用“但是/所以”等修辞替代实际因果。
+- 假设场景清楚标示，用来帮助理解机制或选择，不能用假设中的成败证明现实结论。原对话的私人情节不因改称假设而成为可用材料。
+- 保留真实两难和适用边界；用户判断与资料冲突时指出，不替当事人诊断动机或把其写成被教育的反面人物。未知后续停在未知处。
+- 幽默和类比应解释已有错位，用完回到对象，不靠网络词装饰。类比若省掉关键条件，先修映射关系；不用受害者、疾病和身份作笑料。
+- 结尾回答本篇主要问题，保留影响结论的限制。无需再复述摘要、宏大升华或强行回收开头物件。
 
-## 让中段发生变化
-
-围绕同一个困境推进，检查相邻节点之间有没有真实的因果、选择或认知变化。它可以是新信息推翻旧理解，也可以是一次尝试增加新代价。若段落只是继续列“还有一个正确道理”，考虑删去、压缩或改换位置。
-
-这个检查不要求每段写“但是/所以”，不要求连续反转，也不能用修辞连接词掩盖不存在的因果。安静的细节也可以有用，只要它让人物处境更具体，或让下一次选择更容易理解。
-
-换了听众，不等于给读者增加了新内容。同一经历先向亲友讲、再向有权处理的人讲，若只是让后者获知情况，可以概述；若第二次讲述使人物改口、付出代价或面对新的拒绝，才展开这次不同的应对。把场景篇幅留给本篇真正难说、难做或可能改变关系的地方；具体写法见独立故事规范，不把程序步骤齐全当作叙事推进。
-
-把场景、分析、资料穿插起来：读者对当前矛盾产生疑问时，再给能回答它的证据，随后回到具体选择。不要为显得专业在开场堆理论名词；也不因追求故事性省掉必要证据。已有合适的主张时，不必把所有笔记写进正文。
-
-保留问题中的真实两难和适用边界。避免把“没有行动”直接归因为不真想，把“表达困难”写成愚昧，把特定来电者写成被教育的反面人物。评论具体观点时可以有判断，但应准确引用，不靠羞辱人物推进论证。
-
-自然度来自具体行为、条件和后果。用长句解释必要的关系，短句在转向时停一下，别把全文切成短视频字幕。删除重复结论、空泛励志和模板式三段论；不用固定段数或“每段必须反转”制造节奏。
-
-故事与长文成稿后再按 [natural-voice.md](natural-voice.md) 定位去模板腔问题，分别检查故事、用笔和声音。写作时先让人物完成眼前的事，不背着整份编辑清单逐句造文；有功能的心理直写、比喻、停顿和普通句子可以保留。
-
-幽默优先来自已经解释清楚的错位：原本想放松，后来却给自己加了一套考核；想降低成本，做法反而增加成本。类比须帮助理解当前关系，用完回到对象，不堆网络词或拿受害者、疾病与身份开玩笑。用户未要求特定文风时，不模仿某位作者的招牌表达。
-
-结尾回应本篇主要追问，让读者看到行动的结果或关系的新状态；回应不必靠再次出现开头的物件，也不要求人物获得领悟。不复述摘要，不强行升华；真实材料没有后续就保留未知，虚构结局须由前面的行动与关系支撑。没有证据时不用“真相、实锤、一定、所有人、彻底治愈”等措辞。
+起稿完成后按 [reader-experience.md](reader-experience.md) 判断哪里出现阅读阻力；故事与长文再按 [natural-voice.md](natural-voice.md) 检查表达。写第一稿时不逐句套编辑清单。
 
 ### 知乎
 
@@ -102,18 +89,4 @@
 
 长任务中断时先保存已读范围、所选方向、已核验资料和下一步；用户继续时按该记录恢复，不为恢复重做所有研究。所有工作仍依赖当前会话执行，不能声称后台继续运行。
 
-## 方法来源：维护时查阅
-
-以下仅借鉴高层方法，以本项目的真实素材边界重新编写，没有引入代码、安装项、小说设定或外部 Skill 依赖。链接固定到本次核对的版本，使用时不必访问。
-
-去模板腔相关的来源、固定版本及取舍单独记在 [natural-voice.md](natural-voice.md#方法来源与未采用部分)，避免将上游统计或禁令直接变成本项目的验收指标。
-
-- [human-writing：SKILL.md](https://github.com/KKKKhazix/human-writing/blob/4fda173f3fef7fb808f3eba991eeb2528ea4b189/human-writing/SKILL.md) 与 [forum-prose](https://github.com/KKKKhazix/human-writing/blob/4fda173f3fef7fb808f3eba991eeb2528ea4b189/human-writing/references/forum-prose.md)（MIT）：参考从材料和说话位置起稿、沿当前问题承接、主干先出现、中文照应与松紧。不照搬示范经历、材料数量门槛、连词删减率或句长指标，不把所有文体改成论坛口气。改稿方法与取舍见去模板腔规范。
-- [human-writing：fiction](https://github.com/KKKKhazix/human-writing/blob/4fda173f3fef7fb808f3eba991eeb2528ea4b189/human-writing/references/fiction.md)（MIT）：参考人物当前愿望、配角的独立处境、场景中的选择与结尾后果。用于本项目独立虚构模式，不复制其示范人物、对白或表达。
-- [creative-writing-skills：developmental-edit](https://github.com/haowjy/creative-writing-skills/blob/fec5020a91dddd089d74a00a2d7b87f15a919ae4/skills/story-review/resources/developmental-edit.md) 与 [scene-construction](https://github.com/haowjy/creative-writing-skills/blob/fec5020a91dddd089d74a00a2d7b87f15a919ae4/skills/creative-writing-craft/resources/scene-construction.md)：参考先检查核心问题、因果与人物决策，再处理句子；对白与场景共同改变关系或下一步。不引入书籍分幕、多 Agent 编排或固定场景指标。
-- [novel-writer-skills：dialogue-techniques](https://github.com/wordflowlab/novel-writer-skills/blob/5bc9b373ff609e8910e0e8d179e4a697bf2b1268/templates/skills/writing-techniques/dialogue-techniques/SKILL.md)：参考人物回避的话题、对白目的、动作与潜台词。不复制好坏示例，不强制声音表、口头禅或每次争执的固定节拍。
-
-- [content-skills：storytelling](https://github.com/artemnovitckii/content-skills/blob/1c6e909c975b15d80f6ffcb0e2b60904b7da6656/storytelling/SKILL.md) 与 [viral-hooks](https://github.com/artemnovitckii/content-skills/blob/1c6e909c975b15d80f6ffcb0e2b60904b7da6656/viral-hooks/SKILL.md)（MIT）：叙事节点之间的因果与阻碍、开场的问题清晰度和继续阅读的理由。不照搬短视频时限、连接词硬规则或分享指标承诺。
-- [creative-writing-skills：reader-sim](https://github.com/haowjy/creative-writing-skills/blob/fec5020a91dddd089d74a00a2d7b87f15a919ae4/skills/reader-sim/SKILL.md)（Apache-2.0）：指定读者视角，按原文位置记录好奇、困惑和走神；在本项目中只作编辑假设，不当作实测反应。
-- [claude-skills-journalism：story-pitch](https://github.com/jamditis/claude-skills-journalism/blob/e3e2172f760b8f13c7d827092c03bdb58e40b263/journalism-core/skills/story-pitch/SKILL.md)（MIT）：从宽泛主题收窄到有处境、代价和证据的角度。不冒称已做采访或实地观察。
-- [story-architect-skill](https://github.com/NeuraCerebra-AI/story-architect-skill/blob/84e30372e5e2d92a61f70af05cbf7ead4fc8673f/SKILL.md)（MIT）：参考目标、阻碍、选择及其代价的组织方式。不移植22步小说流程、编造对手或强制人物转变。
+方法的固定版本与取舍见 [method-sources.md](method-sources.md)，仅维护时读取。

@@ -46,7 +46,9 @@ Skill 位于 [`.agents/skills/story-insight/SKILL.md`](.agents/skills/story-insi
 完成取材关联、阅读体验、去模板腔和事实边界检查，新版本另存，不发布。
 ```
 
-用户要求先选题就停在选题；明确全流程时连续完成，不强制逐阶段确认。已有草稿可只审查，也可按用户明确要求修改。
+执行时分别确定任务范围与作品体裁：全流程决定完成哪些阶段，不自动决定采用虚构。仅选题到选题停止；只审查不改正文；局部文风修改直接读取所需上下文与编辑规范，无须重新选题。已明确全流程时连续完成，不强制逐阶段确认。
+
+故事起稿先理清人物当下想得到什么、对方怎样应对及关键行动改变什么；不清楚时先试关键场景，已有写法就直接起稿。自审区分可定位缺陷与审美备选，不固定打分或要求每篇再改一遍；没有有依据的问题可以保留初稿。明确要求评分时提供主观判断，不以分数决定是否重写。
 
 重写无聊草稿时可以直接要求：
 
@@ -76,16 +78,15 @@ Skill 位于 [`.agents/skills/story-insight/SKILL.md`](.agents/skills/story-insi
 
 范围见 [MVP.md](MVP.md)，执行方式见 [ARCHITECTURE.md](ARCHITECTURE.md)，技术取舍见 [TECH-STACK.md](TECH-STACK.md)。实际验收及未覆盖项记录在 [validation/acceptance.md](validation/acceptance.md)。
 
-当前公共议题示例：[v02 知乎草稿](examples/hobby/v02/知乎.md)、[v02 公众号草稿](examples/hobby/v02/公众号.md)、[创作记录](examples/hobby/v02/创作记录.md)。[旧知乎稿](examples/hobby/知乎.md)保留作重写对照；旧稿已收到用户关于趣味性和故事性不足的反馈。
+## 示例与维护
 
-开源方法的固定版本与取舍见 [写作规范的方法来源](.agents/skills/story-insight/references/writing-guidelines.md#方法来源维护时查阅)。只借鉴方法，没有整包安装或新增依赖。
+- [知乎议题文章](examples/hobby/v02/知乎.md)、[公众号议题文章](examples/hobby/v02/公众号.md)及[创作记录](examples/hobby/v02/创作记录.md)：展示假设情景怎样辅助判断，不作为完整独立故事示范。[旧稿](examples/hobby/知乎.md)保留作对照。
+- [独立虚构故事《往左一点》](examples/group-photo/v01/故事.md)及[回读记录](examples/group-photo/v01/创作记录.md)：展示无源稿的轻松生活故事与人物应对，来源和检查范围在记录中说明。
+- [局部编辑对照](examples/local-edit/对照.md)：展示自然表达、信息保真与授权范围控制，数字及情境明确为合成测试材料。
+- 独立故事设计支持在方向未定时比较视角与关键场景，先试写最能检验方案的一场戏；已有明确路线或局部改稿跳过此步。
+- 指定素材的关联尺度对照位于 [分析规范](.agents/skills/story-insight/references/analysis-and-topic.md#用对照校准关联尺度)，区分取材关联不足与具体事件重建不足。
+- 结构编辑向文风编辑交接主要问题、需保护内容与未决项；事实审校只核对适用边界，不重新启动整轮润色。
 
-上列公共议题样例仍待用户可读性验收；此前重构检查见 [validation/narrative-refactor.md](validation/narrative-refactor.md)。另一个保存在 `outputs/` 的独立虚构样本 v02 已得到用户对效果的肯定，本轮将其可复用方法纳入 Skill，见 [故事写作更新与验证](validation/story-craft-update.md)。该反馈只对应这一个版本，不代表其他样例、跨题材稳定性或发布许可。
+方法出处及固定版本集中在 [method-sources.md](.agents/skills/story-insight/references/method-sources.md)，仅维护时读取，不依赖外部 Skill 安装。开发用的固定合成输入、同题请求及对照方法见 [comparison-cases.md](validation/comparison-cases.md)，不是日常写作的必跑流程。
 
-后续样本被指出与原稿关联过弱，取材关联修正、同题 v02 与既有认可版本的回看见 [来源关联检查](validation/source-alignment.md)。对应说明合并进原有创作记录，未增加运行工具或必交文件；新稿仍待用户审阅。
-
-去模板腔编辑与样稿回放见 [文风编辑验证](validation/natural-voice-update.md)。该流程检查故事、用笔和声音，不能保证读者无法辨认 AI；新修订版的自然度仍待实际阅读反馈。
-
-进一步参考 `human-writing` 的白话起稿与改稿方法，补充说话位置、中文照应和先保住已有情绪的编辑取舍，见 [活人感写法验证](validation/human-writing-update.md)。沿用同一故事另存 v04 供比较，没有新增运行依赖。
-
-故事完整性、持续吸引力、场景详略与收束的规则改造见 [故事阅读体验验证](validation/story-experience-update.md)。包含两份旧稿的只读回查及一份新题材试写，尚不是独立读者验收；没有改写既有任务稿件。
+历史验收及各次局限见 [validation/acceptance.md](validation/acceptance.md)。样例的实际读者反馈与未验证事项分别保留在对应记录中，自审和元数据检查不代表文学质量通过。
