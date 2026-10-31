@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事文章配图"
+  short_description: "为成稿生成最多四张插图，一张兼作封面，交付图片和正文位置说明"
+  default_prompt: "使用 $story-visualizer 为我指定的已完成 Markdown 稿件单独配图，正文最多四张，其中一张兼作封面，保留原文，只交图片子目录和一份配图位置说明，不发布。"
